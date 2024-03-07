@@ -1,4 +1,5 @@
 # guiaCriarRepertorio
+Feito por Felipe Mussato Rodrigues e Igor Michelini Pereira
 Como criar um repositório e seus comandos.
 
 Primeiro crie uma pasta, aperte botão direito do mouse em cima dela e abra com o GitBash:
